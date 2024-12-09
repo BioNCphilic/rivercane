@@ -1,3 +1,7 @@
+rivercane_notebooks/*.tif
+rivercane_notebooks/tl_2023_us_county.*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
