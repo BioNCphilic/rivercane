@@ -1,4 +1,4 @@
-# Rivercane Project
+# Rivercane Project [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14496874.svg)](https://doi.org/10.5281/zenodo.14496874)
 ### This is my final project for [the Earth Analytics Data Science Bootcamp-Geog 4463/5463-course](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate?utm_source=earthdatascience&utm_medium=website&utm_campaign=certificate-2022&utm_id=certificate-2022) from Univ. of Colorado Boulder.
 <img src="/pics/rivercane_image.jpg" alt="Rivercane along creek in Great Smoky Mountains National Park" width="50%"/> 
 Native Rivercane - <i>Arundinaria gigantea</i> - is native to 22 states in the US and has been reduced to 2% of it's original range (Sharma, 2003). 
