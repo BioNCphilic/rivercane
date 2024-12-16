@@ -1,5 +1,5 @@
 # Rivercane Project [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14496874.svg)](https://doi.org/10.5281/zenodo.14496874)
-### This is my final project for [the Earth Analytics Data Science Bootcamp-Geog 4463/5463-course](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate?utm_source=earthdatascience&utm_medium=website&utm_campaign=certificate-2022&utm_id=certificate-2022) from Univ. of Colorado Boulder.
+### This project for [the Earth Analytics Data Science Bootcamp-Geog 4463/5463-course](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate?utm_source=earthdatascience&utm_medium=website&utm_campaign=certificate-2022&utm_id=certificate-2022) from Univ. of Colorado Boulder is a work in progress.
 <img src="/pics/rivercane_image.jpg" alt="Rivercane along creek in Great Smoky Mountains National Park" width="50%"/> 
 Native Rivercane - <i>Arundinaria gigantea</i> - is native to 22 states in the US and has been reduced to 2% of it's original range (Sharma, 2003). 
 
@@ -9,8 +9,12 @@ Native Rivercane - <i>Arundinaria gigantea</i> - is native to 22 states in the U
 1. The Model for Interdisciplinary Research on Climate version 5, which was developed by the Center for Climate System Research (CCSR) at the University of Tokyo, Japan. 
 2. The Geophysical Fluid Dynamics Laboratory (GFDL) Earth System Model GFDL-ESM2M (GFDL-ESM2M)  developed by  of the National Oceanic and Atmospheric Administration (NOAA).
 
-### At this point - December 2024 - I have been able to download most of the data and cropped it to fit Cherokee County Oklahoma and Jackson County North Carolina. It is my intention to complete the modeling at a later date. I provide an outline of what those next steps will be to provide a tool for others to use.
+### At this point - December 2024 - I have been able to download most of the data and crop it to fit Cherokee County Oklahoma and Jackson County North Carolina. It is my intention to complete the modeling at a later date. In these notebooks, I provide an outline of what those next steps will be to provide a tool for others to use. What I can show to date is a difference in elevation between the two locations. Rivercane grows best in locations below 2,000 ft or 609.6 m.
+## Figure 1: In Cherokee County OK, there are no areas which do not meet the elevation requirements of rivercane.
+<img src="/pics/ok_elevation.png" alt="color plot of elevation within Cherokee County OK" width="50%"/>
 
+## Figure 2: In Jackson County NC, there are many areas which exceed the elevation requirements of rivercane and are therefore not suitable for restoration
+<img src="/pics/nc_elevation.png" alt="color plot of elevation within Cherokee County OK" width="50%"/>
 
 ## Sources
 * Sharma, Sanjeev. 2023, "PROPAGATION, PHYSIOLOGY, AND BIOMASS OF GIANT CANE (ARUNDINARIA
